@@ -1,5 +1,5 @@
 // Schema for an identity service for a SaaS
-// This service tracks existing users & their accounts, as well as invites for users who haven't joined yet
+// I am editing this content to see if it changes in the PDP
 
 generator client {
   provider = "prisma-client-js"
