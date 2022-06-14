@@ -1,5 +1,5 @@
 // Schema for an identity service for a SaaS
-// If you change this schema in a GitHub repo, it updates here. Neat.
+// If you change this schema file in a GitHub repo, it updates here. Neat.
 
 generator client {
   provider = "prisma-client-js"
